@@ -7,6 +7,7 @@ jinja2=2.7.3=py27_1
 markupsafe=0.23=py27_0
 openssl=1.0.1k=1
 pip=7.1.0=py27_0
+pymongo=2.8=py27_0
 python=2.7.10=0
 readline=6.2=2
 setuptools=18.0.1=py27_0
